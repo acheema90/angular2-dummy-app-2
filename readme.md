@@ -1,4 +1,6 @@
-1) Open a command prompt in the project's root directory (APM - Start)
+This is a dummy SPA for a product company built with angular2, based on a Pluralsight course. 
+
+1) Open a command prompt in the project's root directory
 
 2) Type: `npm install`
     This installs the dependencies as defined in the package.json file.
